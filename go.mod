@@ -40,7 +40,7 @@ require (
 	github.com/phuslu/log v1.0.120
 	github.com/pkg/errors v0.9.1
 	github.com/prysmaticlabs/gohashtree v0.0.4-beta.0.20240624100937-73632381301b
-	github.com/prysmaticlabs/prysm/v5 v5.3.0
+	github.com/prysmaticlabs/prysm/v5 v5.3.3
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.10.0
